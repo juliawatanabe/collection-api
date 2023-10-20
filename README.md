@@ -32,6 +32,4 @@ classDiagram
 
   Manga *-- Feature : has
   Manga *-- Language : has
-
-
-´´´
+```
